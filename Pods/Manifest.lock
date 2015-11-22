@@ -1,0 +1,26 @@
+PODS:
+  - CZPicker (0.3.5)
+  - EAIntroView (2.7.4):
+    - EARestrictedScrollView (~> 0.2.0)
+  - EARestrictedScrollView (0.2.0)
+  - MBProgressHUD (0.9.1)
+  - SMPageControl (1.2)
+
+DEPENDENCIES:
+  - CZPicker
+  - EAIntroView (from `../`)
+  - MBProgressHUD (~> 0.9.1)
+  - SMPageControl (~> 1.2)
+
+EXTERNAL SOURCES:
+  EAIntroView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CZPicker: ce4f352d65ef5ccb8d7378afe3ee4e5bdbead15a
+  EAIntroView: 50b85eedf414260e61330070ffe5947e72493a62
+  EARestrictedScrollView: f86d61e16c61d3e93c84f8e96e83122a2a3b7631
+  MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
+  SMPageControl: 922892813001cfaf059e86e6801f46a967e9ee29
+
+COCOAPODS: 0.39.0

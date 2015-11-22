@@ -1,0 +1,88 @@
+{
+  "property": [
+    {
+      "date": "13th August (Thursday)",
+      "Time": "23:13 to 14th August 06:22",
+      "Nakshatra": "Ashlesha",
+      "Tithi": "Amavasya"
+    },
+    {
+      "date": "14th August (Friday)",
+      "Time": "06:22 to 15th August 06:23",
+      "Nakshatra": "Ashlesha, Magha",
+      "Tithi": "Amavasya, Pratipada"
+    },
+    {
+      "date": "18th September (Friday)",
+      "Time": "01:32 to 18:30",
+      "Nakshatra": "Vishakha",
+      "Tithi": "Panchami"
+    },
+    {
+      "date": "18th September (Friday)",
+      "Time": "06:30 to  19th September 06:30",
+      "Nakshatra": "Vishakha, Anuradha",
+      "Tithi": "Panchami, Shashthi"
+    },
+    {
+      "date": "08th October (Thursday)",
+      "Time": "06:34 to 19:13",
+      "Nakshatra": "Ashlesha, Magha",
+      "Tithi": "Ekadashi"
+    },
+    {
+      "date": "05th November (Thursday)",
+      "Time": "08:37 to 6th November 06:44",
+      "Nakshatra": "Magha, Purva Phalguni",
+      "Tithi": "Dashami"
+    },
+    {
+      "date": "06th November (Friday)",
+      "Time": "06:44 to 7th November 01:52",
+      "Nakshatra": "Purva Phalguni",
+      "Tithi": "Dashami, Ekadashi"
+    },
+    {
+      "date": "12th November (Thursday)",
+      "Time": "06:47 to  13th November 00:45",
+      "Nakshatra": "Vishakha, Anuradha",
+      "Tithi": "Pratipada"
+    },
+    {
+      "date": "20th November (Friday)",
+      "Time": "21:12 to 21st November,06:52",
+      "Nakshatra": "Purva Bhadrapada",
+      "Tithi": "Dashami"
+    },
+    {
+      "date": "10th December (Thursday)",
+      "Time": "15:24 to 11th December 00:24",
+      "Nakshatra": "Anuradha",
+      "Tithi": "Amavasya"
+    },
+    {
+      "date": "12th December (Friday)",
+      "Time": "00:21  to  13th December 07:05",
+      "Nakshatra": "Mula",
+      "Tithi": "Pratipada"
+    },
+    {
+      "date": "24th December (Thursday)",
+      "Time": "18:27 to 25th December 07:12",
+      "Nakshatra": "Mrigashirsha",
+      "Tithi": "Purnima"
+    },
+    {
+      "date": "25th December (Friday)",
+      "Time": "07:12 to 12:14",
+      "Nakshatra": "Mrigashirsha",
+      "Tithi": "Purnima"
+    },
+    {
+      "date": "31st December (Thursday)",
+      "Time": "07:15 to 17:30",
+      "Nakshatra": "Purva Phalguni",
+      "Tithi": "Shashthi"
+    }
+  ]
+}
